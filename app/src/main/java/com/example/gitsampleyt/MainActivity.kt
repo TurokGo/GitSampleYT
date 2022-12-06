@@ -9,6 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println("This is the first change on Git!")
-        lksjdkflsdfsdfsd
+        Lets mess it up
     }
 }
