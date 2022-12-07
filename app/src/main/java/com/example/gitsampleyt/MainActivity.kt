@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         println("This is the first change on Git!")
         println("Sample branch")
+        println("Sample branch")
     }
 }
