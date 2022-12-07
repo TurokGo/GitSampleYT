@@ -12,5 +12,7 @@ class MainActivity : AppCompatActivity() {
         println("Sample branch")
         println("Sample branch")
         println("CHANGE CHECK 2222 !")
+        println("_________________")
+        println("Hello from friend commit")
     }
 }
